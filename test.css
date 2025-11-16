@@ -107,7 +107,9 @@ li::scroll-marker {
 li::scroll-marker:target-current {
   background-color: black;
 }
-
 ul {
-  text-align: center;
+    text-align: center;
+}
+li {
+    list-style: none;
 }
